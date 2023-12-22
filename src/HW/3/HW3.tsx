@@ -1,4 +1,4 @@
-import {ChangeEvent, ChangeEventHandler, useState} from 'react';
+import {ChangeEvent, useState} from 'react';
 
 export const HW3 = () => {
   // 1️⃣ Раскомментируйте JSX(HW3.tsx) и вы увидите,
